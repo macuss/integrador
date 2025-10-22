@@ -14,7 +14,7 @@ public class ValidadorDatos {
         // crea una instancia de Persona por cada linea validada
 
         List<Persona> personas = new ArrayList<>();
-
+       
         for(String linea: lineas){
             if(validarLinea(linea)){
                 String[] partes = linea.split(",");
