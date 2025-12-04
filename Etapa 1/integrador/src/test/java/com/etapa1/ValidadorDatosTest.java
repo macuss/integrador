@@ -6,6 +6,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
+import com.etapa1.Personas.Persona;
+import com.etapa1.Personas.ValidadorDatos;
+
 class validadorDatosTest {
 
 

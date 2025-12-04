@@ -2,6 +2,8 @@ package com.etapa1;
 
 import org.junit.jupiter.api.Test;
 
+import com.etapa1.Autos.Auto;
+
 public class AutoTest {
 
     @Test

@@ -4,11 +4,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
+import com.etapa1.Numeros.Matrices;
+
 public class MatricesTest {
     
-    
-
-    // testeamos las funciones:
 
     @Test
     public void duplicarValoresTest (){

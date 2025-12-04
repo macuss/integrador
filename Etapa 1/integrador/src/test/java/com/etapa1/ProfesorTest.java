@@ -7,6 +7,9 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
+import com.etapa1.Personas.Alumno;
+import com.etapa1.Personas.Profesor;
+
 public class ProfesorTest {
 
     @Test

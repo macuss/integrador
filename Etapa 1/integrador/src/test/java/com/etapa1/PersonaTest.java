@@ -4,6 +4,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
+import com.etapa1.Personas.Persona;
+
 public class PersonaTest {
     
     Persona p = new Persona("maxi", 37);
